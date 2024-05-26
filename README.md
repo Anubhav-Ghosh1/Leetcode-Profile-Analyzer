@@ -2,7 +2,7 @@
 
 ## Overview
 LeetCode Profile Analyzer is a web application designed to evaluate and visualize your LeetCode profile. By analyzing the number of questions you've solved and the contests you've participated in, provides an insightful representation of your progress and activity on LeetCode. The tool displays this data using a heat map similar to GitHub's contribution graph and allows you to save your profile analysis offline as a JPEG image.
-
+![Leetcode-Profile-Analyzer](https://socialify.git.ci/Anubhav-Ghosh1/Leetcode-Profile-Analyzer/image?forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 ## Features
 - **Profile Worth Calculation**: Determine the value of your LeetCode profile based on the number of questions solved and contests participated in.
 - **Heat Map Visualization**: View your activity over time with a heat map similar to GitHub's contribution graph.
@@ -14,7 +14,7 @@ LeetCode Profile Analyzer is a web application designed to evaluate and visualiz
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/yourusername/leetcode-profile-analyzer.git
-    cd leetcode-profile-analyzer
+    cd Leetcode-Profile-Analyzer
     ```
 
 2. **Install Backend Dependencies**
